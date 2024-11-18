@@ -1,6 +1,6 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No.3  - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 19.10.2024
+### DATE:19-10-2024 
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -46,7 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![376927887-3fadc85e-6841-418e-bc13-47c9de387251](https://github.com/user-attachments/assets/a300964a-7ed7-4597-a76c-fb04ed695436)
+![3](https://github.com/Manisrii21/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147140163/696086f4-4a2f-4343-ae96-eccbfdcadb86)
+
+
 
 ### Name: VELLACHI TILAK
 ### Register Number:212223240172
